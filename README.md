@@ -41,7 +41,7 @@ This project analyzes customer churn using the IBM Telco Customer Churn dataset.
 
 ## 📸 Dashboard Preview
 
-![dashboard](Images/dashboard.png)
+![dashboard](dashboard.png)
 
 ---
 
